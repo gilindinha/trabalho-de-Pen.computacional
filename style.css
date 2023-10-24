@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    color: white;
+background-color: blue;
+}
+
+.titulo {
+    font-family: monospace;
+    color: white;
+}
+
+.subtitulo {
+    font-family: monospace;
+}
